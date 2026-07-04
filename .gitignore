@@ -1,0 +1,36 @@
+# Dataset — re-download from Kaggle
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: commit submission.csv if you want it in the repo
+# outputs/submission.csv
+
+docs/data_doc.md
+docs/debug_log.md
+docs/eval.md
+docs/experiment_log.md
+docs/learnings.md
+docs/model_card.md
+docs/project_context.md
+docs/tasks.md
