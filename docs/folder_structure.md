@@ -11,7 +11,8 @@ disaster-tweet-classification/
 ├── notebooks/
 │   ├── 01_eda.ipynb            # Exploratory analysis — class dist, lengths, keywords
 │   ├── 02_preprocessing.ipynb  # clean_text() function, before/after comparison
-│   └── 03_modeling_evaluation.ipynb  # All models, comparison, error analysis, submission
+│   ├── 03_modeling_evaluation.ipynb  # Baseline models, comparison, error analysis, submission
+│   └── 04_model_improvement.ipynb  # Improved models
 │
 ├── docs/
 │   ├── project_context.md      # Paste at top of every AI chat — 300 words max
