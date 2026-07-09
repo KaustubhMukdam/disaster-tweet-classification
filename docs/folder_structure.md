@@ -13,7 +13,8 @@ disaster-tweet-classification/
 │   ├── 02_preprocessing.ipynb  # clean_text() function, before/after comparison
 │   ├── 03_modeling_evaluation.ipynb  # Baseline models, comparison, error analysis, submission
 │   ├── 04_model_improvement.ipynb  # Improved models
-│   └── 05_error_analysis.ipynb  # Error analysis
+│   ├── 05_error_analysis.ipynb  # Error analysis
+│   └── 06_tuning_submission.ipynb  # Tune the strongest classical NLP models, choose the best final pipeline, and generate a Kaggle submission file.
 │
 ├── docs/
 │   ├── project_context.md      # Paste at top of every AI chat — 300 words max
